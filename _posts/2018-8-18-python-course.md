@@ -2,6 +2,9 @@
 layout: post
 title: Python course from CTC
 ---
+
+In CTC, There's a Python programming course sponsoredd by Dr. Siva for 6 months. In this course, we are learning the following things
+
 ### Python Basics
 
 * Print Hello World
@@ -22,4 +25,4 @@ In this project, we used a bit of sqlite, HTML/CSS, etc..
 We firstly tried hugo to make our blogs, due to some difficulty, we end up using Jekyll
 
 ### Game developement
-Currently, we are building car rsacing game.
+Currently, we are building car racing game.
