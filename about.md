@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is MaryMHC(Man Sian Lun). I'm a 13 year-old girl, studying in CTC Setapak, Kuala Lumpur Malaysia. I love listening Music. My fav Bands are Anthem Lights and Planet Shakers. My fav singers are Ed Sheeran and many more.....
 
-### More Information
+### My Hobby
+I love reading in my free time.....ans sports
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
